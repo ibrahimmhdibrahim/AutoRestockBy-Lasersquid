@@ -11,4 +11,5 @@ Please support and credit the original author for their work. This is only a com
 Enjoy, and happy restocking!
 
 All the credit goes to: https://github.com/lasersquid
+
 His original code: https://github.com/lasersquid/Sched1AutoRestockMod
